@@ -10,4 +10,4 @@ def subtrair(a, b):
 
 
 def media(numeros):
-    return sum(numeros) / 2
+    return sum(numeros) len/(numeros) 
